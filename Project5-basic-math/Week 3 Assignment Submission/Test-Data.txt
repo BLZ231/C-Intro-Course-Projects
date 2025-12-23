@@ -1,0 +1,13 @@
+﻿Test Data used:
+
+travelRate:		33,865.7 miles per minute
+time1:			2.3 minutes
+fuel1:			29.3 gallons of fuel
+time2:			0.7 minutes
+fuel2:			9.3 gallons of fuel
+time3:			4.8 minutes
+fuel3:			61.6 gallons of fuel
+
+
+
+

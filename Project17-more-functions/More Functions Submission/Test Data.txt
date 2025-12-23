@@ -1,0 +1,12 @@
+﻿Test Data Used:
+
+userSideOne		Side 1
+userSideTwo		Side 2
+maxLength		Max Side 3
+triHyp			Hypotenuse
+
+Side 1		Side 2		Max Side 3		Hypotenuse
+
+9		11		19			14.21
+5		8		12			9.43
+15		22		36			26.63

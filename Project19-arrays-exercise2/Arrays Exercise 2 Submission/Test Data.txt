@@ -1,0 +1,19 @@
+﻿Test Data Used:
+
+originalArray[10]		Original Value
+resultArray[10]			Multiplied Value
+
+
+
+Original Value		Index		Multiplied Value		
+
+10			0		0
+9			1		9
+8			2		16
+7			3		21
+6			4		24
+5			5		25
+4			6		24
+3			7		21
+2			8		16
+1			9		9

@@ -1,0 +1,19 @@
+﻿Test Data used:
+
+adultTicketPrice			$319.99
+childTicketPrice			$134.99
+studentTicketPrice			$219.99
+
+adultNumber
+childNumber
+studentNumber
+groupLeader
+
+numberOfGuides			(adultNumber+childNumber+studentNumber)/3 (Rounded up)
+adultCost				(adultTicketPrice*adultNumber)
+childCost				(childTicketPrice*childNumber)
+studentCost				(studentTicketPrice*studentNumber)
+subTotal				(adultCost+childCost+studentCost)
+taxAmount				(subTotal+taxRate)
+finalTotal				(subTotal+taxAmount)
+

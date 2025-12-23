@@ -1,0 +1,13 @@
+﻿Test Data Used:
+
+userFirstNum		First Number
+userSecondNum		Second Number
+userCalcChoice		Calculation
+userCalcResult		Result
+
+First Number		Second Number		Calculation		Result
+
+98			205			Addition		303
+1871			1792			Subtraction		79
+17.17			5.98			Multiplication		102.677
+99			12			Division		8.25

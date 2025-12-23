@@ -1,0 +1,5 @@
+Input the first keyword to search for: it
+Input the second keyword to search for: the
+
+The input "it" was found 145 times and the input "the" was found 361 times.
+

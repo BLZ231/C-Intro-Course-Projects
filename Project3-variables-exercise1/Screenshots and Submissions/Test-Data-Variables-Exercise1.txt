@@ -1,0 +1,10 @@
+﻿Test Data Used:
+
+parkName: 	Restored Eden Sanctuary
+exhibit1A:	Woolly Mammoth
+attraction1:	Revival Icons
+exhibit2A:	Glyptodont
+attraction2:	Mighty Megafauna
+exhibit3A:	Smilodon
+attraction3:	Prehistoric Hunters
+ticketPrice:	319.99

@@ -1,0 +1,40 @@
+1
+Ocarina of Time
+1998
+High Fantasy
+2
+Binding of Isaac
+2014
+Dark Adventure
+3
+Hollow Knight
+2017
+Exploration
+4
+Undertale
+2015
+Ludonarrative
+5
+Resident Evil 4
+2005
+Shooter
+6
+Silent Hill 2
+2001
+Psychological Horror
+7
+Pikmin
+2001
+Strategy
+8
+Paper Mario
+2001
+Light Adventure
+9
+Spyro: Year of the Dragon
+2000
+Light Adventure
+10
+Amnesia: The Dark Descent
+2010
+Psychological Horror

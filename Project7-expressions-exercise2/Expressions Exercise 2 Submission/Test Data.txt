@@ -1,0 +1,13 @@
+﻿Test Data used:
+
+perComputer				50.00
+perFirewall				125.00
+baseConsult				200.00
+
+companyTitle
+networkComputers
+
+computerFee				(perComputer*networkComputers)
+firewallFee				(perFirewall*perDevice)			
+totalAmount				(computerFee+firewallFee+baseConsult)
+

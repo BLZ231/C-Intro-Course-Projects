@@ -1,0 +1,58 @@
+﻿Test Data used:
+
+horseType				Light Riding Horse(1)
+					Large Riding Horse(2)
+					Draft Horse(3)
+
+horseWeight				Pounds
+
+Health					Underweight
+					Healthy
+					Overweight
+
+User 1
+horseType				Light Riding Horse
+horseWeight				800
+Health					Underweight
+
+User 2
+horseType				Light Riding Horse
+horseWeight				1066
+Health					Healthy
+
+User 3
+horseType				Light Riding Horse
+horseWeight				1215
+Health					Overweight
+
+User 4
+horseType				Large Riding Horse
+horseWeight				1088
+Health					Underweight
+
+User 5
+horseType				Large Riding Horse
+horseWeight				1455
+Health					Healthy
+
+User 6
+horseType				Large Riding Horse
+horseWeight				1610
+Health					Overweight
+
+User 7
+horseType				Draft Horse
+horseWeight				1347
+Health					Underweight
+
+User 8
+horseType				Draft Horse
+horseWeight				1861
+Health					Healthy
+
+User 9
+horseType				Draft Horse
+horseWeight				2350
+Health					Overweight
+
+

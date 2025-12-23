@@ -1,0 +1,11 @@
+﻿So the first step I did was to flesh out some of the basics, such as putting in the name and description at the top, putting in the necessary include <> parts, and so on.
+
+The next step was the pseudocode, which I wrote in a comment. In times past I tried writing pseudocode just on the lines, but it tended to get pretty cranky about it or would do things I didn’t want, so it’s just easier to have it all contained in comments so that I can write the pseudocode without worrying about it trying to read it as real code until I’m ready to translate it.
+
+I began with the desired end goal, and from there I broke the various parts of the problem into smaller pieces, giving them loose names and groupings that were intuitive but would obviously need to be adjusted when writing the actual code.
+
+I’ll admit I was stuck for a little bit, because I could see the individual parts but was unsure how to rearrange them to make the right calculations. It’s one of those times where something will make perfect sense when I read about it or watch someone else do it, but later when I have to do it from scratch I freeze and have to refresh my memory about how the logic works.
+
+Fortunately in this case the problem was simple enough that it wasn’t too hard to solve. I began by defining the constants, the values I knew wouldn’t change, and then defined the variables that were known. From there it became more obvious how to calculate the correct values by plugging the right variables into the right formula.
+
+After that I tested the code and it worked properly, and so from there it was just a matter of making sure the code and output were formatted correctly to be easier to read.

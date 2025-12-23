@@ -1,0 +1,7 @@
+﻿Test Data Used:
+
+termName:		Fall 12025
+classCredits3:		3
+class3Name:		CIS 1107
+class1Name:		CIS 1111
+class2Name:		CIS 1140
